@@ -1,0 +1,17 @@
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\DataAccesseLayerFakes.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\DataAccessLayerInterfaces.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\DataObjects.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\LogicLayerInterfaces.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\DataAccesseLayerFakes.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\DataAccessLayerInterfaces.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\DataObjects.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\bin\Debug\LogicLayerInterfaces.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete

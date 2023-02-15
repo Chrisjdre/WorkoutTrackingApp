@@ -1,0 +1,9 @@
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccessLayerInterfaces\bin\Debug\DataAccessLayerInterfaces.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccessLayerInterfaces\bin\Debug\DataAccessLayerInterfaces.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccessLayerInterfaces\obj\Debug\DataAccessLayerInterfaces.csproj.AssemblyReference.cache
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccessLayerInterfaces\obj\Debug\DataAccessLayerInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccessLayerInterfaces\obj\Debug\DataAccessLayerInterfaces.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccessLayerInterfaces\obj\Debug\DataAccessLayerInterfaces.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccessLayerInterfaces\bin\Debug\DataObjects.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccessLayerInterfaces\bin\Debug\DataObjects.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccessLayerInterfaces\obj\Debug\DataAccessLayerInterfaces.csproj.CopyComplete

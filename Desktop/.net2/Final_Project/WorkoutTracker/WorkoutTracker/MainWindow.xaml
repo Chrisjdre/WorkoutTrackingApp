@@ -1,0 +1,56 @@
+﻿<Window x:Class="WorkoutTracker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorkoutTracker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="350"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="400*" />
+            <ColumnDefinition Width="400*"/>
+            <ColumnDefinition Width="400*"/>
+        </Grid.ColumnDefinitions>
+
+        <Menu Grid.Row="0" Padding="5, 3">
+            <MenuItem x:Name="mnuFile" Header="File">
+                <MenuItem x:Name="mnuExit" Header="Exit"></MenuItem>
+                <MenuItem x:Name="mnuViewStats" Header="View My Stats" Click="mnuViewStats_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem x:Name="mnuEdit" Header="Edit">
+                <MenuItem x:Name="mnuPrefrences" Header="Prefrences"></MenuItem>
+                <MenuItem x:Name="mnuChangePassword" Header="ChangePassword"></MenuItem>
+            </MenuItem>
+            <MenuItem x:Name="mnuHelp" Header="Help">
+                <MenuItem x:Name="mnuAbout" Header="About"></MenuItem>
+            </MenuItem>
+
+
+        </Menu>
+        <Button x:Name="btnLogin" HorizontalAlignment="Center" Grid.Column="2" Width="60" Margin="0,5,0,0" Click="btnLogin_Click">Login</Button>
+        <Label x:Name="lblGreeting" Content="You are not logged in" Padding="20 5 0 0" Margin="5" Grid.Column="1"/>
+        <Label x:Name="lblColumn1" Grid.Row="1" Grid.Column="0"  HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14"></Label>
+        <Label x:Name="lblColumn2" Grid.Row="1" Grid.Column="1"  HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14"></Label>
+        <Label x:Name="lblColumn3" Grid.Row="1" Grid.Column="2" HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14">Exercises</Label>
+
+        <DataGrid Grid.Row="2" Grid.Column="0" x:Name="datColumn1" Grid.ColumnSpan="2" Margin="0,20,264.6,-9.2" Grid.RowSpan="2" IsReadOnly="True" MouseDoubleClick="datColumn1_MouseDoubleClick"></DataGrid>
+        <DataGrid Grid.Row="2" Grid.Column="1" x:Name="datColumn2" Grid.ColumnSpan="2" Margin="0.2,20,263.6,10.4" />
+        <DataGrid Grid.Row="2" Grid.Column="2" x:Name="datColumn3" MouseDoubleClick="datColumn3_MouseDoubleClick" IsReadOnly="True" Margin="0.4,20,-0.4,-9.2" Grid.RowSpan="2"></DataGrid>
+
+        <Button x:Name="btnColumn1" Grid.Row="2" VerticalContentAlignment="Top" VerticalAlignment="Bottom" Height="20" Margin="0,0,136.8,330.4" Click="btnColumn1_Click" RenderTransformOrigin="1.224,0.635">Start New Workout</Button>
+        <Button x:Name="btnColumn2" Grid.Row="2" VerticalContentAlignment="Top" VerticalAlignment="Bottom" Height="20" Grid.ColumnSpan="2" Margin="0.2,0,263.6,330.4" Grid.Column="1" Click="btnColumn2_Click">User stats</Button>
+        <Button x:Name="btnColumn3" Grid.Row="2" Grid.Column="1" VerticalContentAlignment="Top" VerticalAlignment="Bottom" Height="20" Grid.ColumnSpan="2" Margin="264.2,0,-0.4,330.4" Content="Add Exercise" Click="btnColumn3_Click"/>
+        <Button x:Name="btnDeletWorkout" Grid.Row="2" VerticalContentAlignment="Top" VerticalAlignment="Bottom" Height="20" Margin="137,0,264.6,330.4" Content="Delete Workout" RenderTransformOrigin="0.609,0.635" Grid.ColumnSpan="2" Click="btnDeletWorkout_Click"/>
+
+        
+        
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataObjects\obj\Debug\DataObjects.csproj.AssemblyReference.cache
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataObjects\obj\Debug\DataObjects.pdb

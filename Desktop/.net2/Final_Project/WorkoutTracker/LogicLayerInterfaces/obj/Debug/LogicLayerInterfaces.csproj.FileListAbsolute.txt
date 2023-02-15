@@ -1,0 +1,9 @@
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayerInterfaces\bin\Debug\LogicLayerInterfaces.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayerInterfaces\bin\Debug\LogicLayerInterfaces.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayerInterfaces\obj\Debug\LogicLayerInterfaces.csproj.AssemblyReference.cache
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayerInterfaces\obj\Debug\LogicLayerInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayerInterfaces\obj\Debug\LogicLayerInterfaces.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayerInterfaces\obj\Debug\LogicLayerInterfaces.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayerInterfaces\bin\Debug\DataObjects.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayerInterfaces\bin\Debug\DataObjects.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\LogicLayerInterfaces\obj\Debug\LogicLayerInterfaces.csproj.CopyComplete

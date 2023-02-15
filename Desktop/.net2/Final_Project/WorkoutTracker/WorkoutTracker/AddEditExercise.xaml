@@ -1,0 +1,30 @@
+﻿<Window x:Class="WorkoutTracker.AddEditExercise"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorkoutTracker"
+        mc:Ignorable="d"
+        Title="AddEditExercise" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="150"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="top" FontSize="20">Exercise Name</Label>
+        <Label Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20">Exercise Type</Label>
+        <TextBox x:Name="txtExerciseName" Grid.Row="0" Height="50" Width="300" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" Margin="49,41,47.8,9.8"></TextBox>
+        <TextBox x:Name="txtExerciseType" Grid.Row="0" Grid.Column="1" Height="50" Width="300" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" Margin="48.2,41,48.6,9.8"></TextBox>
+        <TextBox x:Name="txtExerciseDescription" Grid.Row="1" Grid.ColumnSpan="2" FontSize="20" TextWrapping="Wrap" Margin="10,0,9.6,0">Example</TextBox>
+
+        <Button x:Name="btnSave" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="150" Height="75" FontSize="20" Click="btnSave_Click">Save</Button>
+        <Button x:Name="btnCanel" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Width="150" Height="75" FontSize="20" Click="btnCanel_Click">Cancel</Button>
+    </Grid>
+</Window>

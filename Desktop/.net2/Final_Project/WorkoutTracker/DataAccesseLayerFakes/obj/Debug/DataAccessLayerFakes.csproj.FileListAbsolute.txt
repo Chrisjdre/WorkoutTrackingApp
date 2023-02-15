@@ -1,0 +1,6 @@
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccesseLayerFakes\bin\Debug\DataAccesseLayerFakes.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccesseLayerFakes\bin\Debug\DataAccesseLayerFakes.pdb
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccesseLayerFakes\obj\Debug\DataAccessLayerFakes.csproj.AssemblyReference.cache
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccesseLayerFakes\obj\Debug\DataAccessLayerFakes.csproj.CoreCompileInputs.cache
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccesseLayerFakes\obj\Debug\DataAccesseLayerFakes.dll
+C:\Users\mraut\Desktop\.net2\Final_Project\WorkoutTracker\DataAccesseLayerFakes\obj\Debug\DataAccesseLayerFakes.pdb
